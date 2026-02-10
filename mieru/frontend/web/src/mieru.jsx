@@ -325,7 +325,7 @@ class ErrorBoundary extends React.Component {
   render() { if (this.state.hasError) return <h1>Something went wrong.</h1>; return this.props.children; }
 }
 
-export default function SpotLite() {
+export default function Mieru() {
   const [view, setView] = useState('home');
   const [searchQuery, setSearchQuery] = useState('');
   const [isOpenNow, setIsOpenNow] = useState(false);
@@ -380,7 +380,7 @@ export default function SpotLite() {
       <div className="relative z-10 w-full max-w-md px-6 text-center animate-fadeIn">
 
         <h1 className="font-serif text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-b from-white via-white to-white/70 mb-4 tracking-tight drop-shadow-2xl">
-          SpotLite
+          Mieru
         </h1>
         <p className="text-white/80 mb-12 text-lg font-medium tracking-wide drop-shadow-lg">
           Dining curated by AI.
