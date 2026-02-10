@@ -1,0 +1,468 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "2526",
+        "short_name": "2526",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "South Figueroa Street",
+        "short_name": "S Figueroa St",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "South Los Angeles",
+        "short_name": "South Los Angeles",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Angeles",
+        "short_name": "Los Angeles",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Angeles County",
+        "short_name": "Los Angeles County",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "California",
+        "short_name": "CA",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "90007",
+        "short_name": "90007",
+        "types": [
+          "postal_code"
+        ]
+      },
+      {
+        "long_name": "2549",
+        "short_name": "2549",
+        "types": [
+          "postal_code_suffix"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">2526 S Figueroa St</span>, <span class=\"locality\">Los Angeles</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">90007-2549</span>, <span class=\"country-name\">USA</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-11-23",
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2025-11-23",
+            "day": 0,
+            "time": "0000",
+            "truncated": true
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-24",
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2025-11-23",
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-25",
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-11-24",
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-26",
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-11-25",
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-27",
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-11-26",
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-28",
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "date": "2025-11-27",
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-29",
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "date": "2025-11-28",
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-29",
+            "day": 6,
+            "time": "2359",
+            "truncated": true
+          },
+          "open": {
+            "date": "2025-11-29",
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 3:00 AM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "2526 S Figueroa St, Los Angeles, CA 90007, USA",
+    "formatted_phone_number": "(949) 345-9685",
+    "geometry": {
+      "location": {
+        "lat": 34.0283897,
+        "lng": -118.2751576
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0297525802915,
+          "lng": -118.2738629197085
+        },
+        "southwest": {
+          "lat": 34.0270546197085,
+          "lng": -118.2765608802915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 949-345-9685",
+    "name": "YGF Malatang",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 1,
+            "time": "0300"
+          },
+          "open": {
+            "day": 0,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "0200"
+          },
+          "open": {
+            "day": 1,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "0200"
+          },
+          "open": {
+            "day": 2,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "0200"
+          },
+          "open": {
+            "day": 3,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "0200"
+          },
+          "open": {
+            "day": 4,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "0300"
+          },
+          "open": {
+            "day": 5,
+            "time": "1100"
+          }
+        },
+        {
+          "close": {
+            "day": 0,
+            "time": "0300"
+          },
+          "open": {
+            "day": 6,
+            "time": "1100"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 11:00 AM – 2:00 AM",
+        "Tuesday: 11:00 AM – 2:00 AM",
+        "Wednesday: 11:00 AM – 2:00 AM",
+        "Thursday: 11:00 AM – 2:00 AM",
+        "Friday: 11:00 AM – 3:00 AM",
+        "Saturday: 11:00 AM – 3:00 AM",
+        "Sunday: 11:00 AM – 3:00 AM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101778319156620095874\">YGF Malatang</a>"
+        ],
+        "photo_reference": "AWn5SU5JggH3pwnQcihkqYobHN1d-8zxwmiIMG-Y4GWpTMZrX_zX6tvz7quKhdUU-QtLtyBRh9KLHVc3NlfDRPms80h5-6Q5e8OQZovXh2JF4EKvM1tE7UjdUXtA7KApbIgGv3RDoyQN1yOfwmlNl9e7k485q9qO7GbjdLbprHINLVhfuNmFBkTvY8yb7cf3YwVIk2EmBoW4y4DGtKKdUhLmIF-gQAE65g9iSo1gL4MejbtNsktY3yzMw6BDVH2Gc8GSer4GHgv18Lr9iBAN_vGABwnPjisCJDGk5ZsL0ohBVYMoQg",
+        "width": 3024
+      },
+      {
+        "height": 929,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101778319156620095874\">YGF Malatang</a>"
+        ],
+        "photo_reference": "AWn5SU6tkpVc6I4RYMZMEO-Un9cZ961Z6aVQXREH0ixw61lp21Cu-tUv2rEb2YXzAuuMMxqkBoDppvv3TcArgQ6-fr77AjS8Y8aV23iLMjGoh7EeyXNlOasWiRn7czeAFxKS23dHgjzQXNIUUjttaxgmjclrP9-zBeqjpHUY56sFU3hzOz5ppFz9jVH2qwEWFg95JY3izOzzBP3C-hVhbVN-H6qK2SDDf1jBksmGZC2yALVQ4CxvhkhVdgcYmfekOkzunGNF8FnX8_5Xh7tye36h7khdLQjw3IO40pelFYXhaeEkhg",
+        "width": 881
+      },
+      {
+        "height": 1096,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101778319156620095874\">YGF Malatang</a>"
+        ],
+        "photo_reference": "AWn5SU4NKgVvUtlZWFzR-RYvdYRqFmBcLN4vJF-fZQhm1g4M7o_GZaRG2YkHEjoM0fBkzxkU4K1Vo4GXXXXlakcjxqP-Xt2JbkLZAwj0vdFgRHxbkOSkfyjk0QcjCYW_MqOQQqjuWbfZtc0_rhNMfAALBQlnKhIB6GHvuXzE8QjUiREpK1lFteQC-J2nvXXhI1QZxSFnYFZWfa1_A-AbIjOWt7t2Cmi6YLY1TDZXctdzOko837b5H6LKxjDNx66S7Y-yGo6kOl8-2_fTmrJsumkYNK-UdrBV_B-rwuRxPIPH4gfwZQ",
+        "width": 910
+      },
+      {
+        "height": 747,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101778319156620095874\">YGF Malatang</a>"
+        ],
+        "photo_reference": "AWn5SU5xQuCDqdVU7Cfm2RRHMugf9_YHJng37Wg7hka1UvOOXrVnKHRVE8-juya1yz5qtsBp9aVsoa3cUIKgw7SA9Z2paAhnNyz1DmXtELCygKskYX6tBYvCIsW0nwE7NFQAR2nP5a2PklSITPJoY58TyF7Br1SaZWU58otAtSG_2DcHOTjFumJLDRpABr8cr37eJ3YpbaJiNAdt01ZvjOrB8a2ojfnITnxUDIZSl9wHSXHQu6TsHTNCM_gMrvJIAC5GMIlE9nRSo3oSdiB19b7ftmiYpCOHV1997owRYAKXMQVowA",
+        "width": 624
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/105898268180831740347\">Fang Phattha</a>"
+        ],
+        "photo_reference": "AWn5SU7K5Gi68Y-2xSUv5vLQS2My-bZxJkysgewFmenq19Jmnu_q8eNYcq2PmYoGMc8zNLCfOVo4uoOXNVroteHV__I3FCiPNl2wPFcaLx27M-Aa3Tu1DUbe5ErYECA77nnB-CkcNq3YtrMbeS65WUeHpWvfTQbA5M_75z5hTUVpq_0Ge7t_JS1lMUwdHDZZI0TOcKdyoxK4MOCtWbrhwlpckoIZMORKEVC4GmK_7nqL56SCZyv_kJIJhy1Qd56jWZwlBhc1PeGmjQqeSVZdtoTnaHfqtln7XLbBk-Gukf34Ou8mwIRBHkueX0Z7HFnwnfusUp6GC_UCn8cZRaiNLTaiCCoD9aFdLzai9ASyvX8mJoCV2VBzPXRPVH8Wxz2m_3WO5dbpsBg4mNqta-Vamy1P5G_O_SB3qgoKcMt1G1fZVKhsxCyZG9DSAC_Ezgv_7CXA",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/100002085310562449464\">Lei</a>"
+        ],
+        "photo_reference": "AWn5SU66lzdoleYk8VlBdGqroxIqJRF41SYlIIGl20s8NkrsBD5Y5F8mcVj6i2B-QASqZsFgparJiRsnOUGlmeJo9Yp2ryFz4jdd44sb1VEnil7DshJlErHeboKlBNj_RTIYAWX9HO6N2fQwuEbBCGNxfMUOyIenaNJrVPdZ3nTgyXbEQTLV38IBMt26IyszR2AclH29MUbLMq0egr2Nruvodho0NbCIh7xUZhstU2h8a3F-nQKAtGnyjpwmTzeXRtx4ByPkCMaRYilMqFDGwr5Q_Hbax7ynDxxzYTO9tydsXrjSUhDLapsS1Jzd2X8ocqMtlud69lbzrcIHeZpBcF7bxQAJmuMdZ4w-_PAJbYaZMNH2u8_pbS9Psrajrp9BiCJ7P4zsEpDxmkIozNXqRvxrZZzTz72yJXr13Ft8468bLOrejpQoVpeEZuIpqPCX",
+        "width": 4032
+      },
+      {
+        "height": 898,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101778319156620095874\">YGF Malatang</a>"
+        ],
+        "photo_reference": "AWn5SU4Ae8uAZCOIH0e7s6cSeM8wzzt8kwg_A2vfOPgAocl-Iuroj0f0ZZ5ST72Joq8K_NjWkXipNveHv5E9egB-_LlkqmYe77kaHZ0vplbrfOAGbLAULVDyuKXAlLICmHC82nHFZunvvHI38zIcEM70UXr5-aHP7ic6gIAZBpZrS2aXtFPXi24XxpgRinZ4qSe7IwBWI-WbM2o2jhuaKOqkptY-NIej9U0OaHXydpdUcRKY2nG3lr7kZJhwLF4fobpSPUFYgy7uimdrW3fWtYs9PlxXEIpL0OyAPnRw5AFV59RSGw",
+        "width": 686
+      },
+      {
+        "height": 1122,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101778319156620095874\">YGF Malatang</a>"
+        ],
+        "photo_reference": "AWn5SU7H8_MHGGn58zn-T_FulJXgYbf_4zlyP2LkZUlkHVD1ynLwyC5NGsKGzU2t_5wut0S5bHEdYu7I1zHRAc4nHfDaFflZV1IsXshD4d_DZyfPGGZ3ANu3lRiGtAF5LLnaqZjupfluyamFAZAzfIQs89FtZ-DX3r--25LPI7hCjgGKqEDtt4zwhv08-E0e_4PhUOrJlt62LmdEYpIG0vM-3imTPfeF_1vDCfdnWzumk7HEK9MSPe9uSxIZgmqSavf6EGwCkn3dHkyPdDG07uTVG0iC3-X0lRRwH0d656FkVX59XQ",
+        "width": 1178
+      },
+      {
+        "height": 937,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101778319156620095874\">YGF Malatang</a>"
+        ],
+        "photo_reference": "AWn5SU6GbjQT2Nb9WOne1JABGObuXoFkwMCsPLHyhlT_A9qLGBj7AFd1rExtuVLjWi7ezpPtmZCSukxtG634PkH7rJeRZbrwW14qg9k831QjRPuggh1g5V6JYx0BSPHcl1ve1QVdX0uWSxENZasYdxn8EWCh2t01t06OqgheesO9YwErEDHr-DdzPStOK-Z3ofAH_0uUSkkN1-WiEs-nuRWODC-xhoQRLRApvhs-XGb7o-RGOGrDbJlCEn9r6sSJ5HyJUrvtitFubue-IUN-R6kQTefptjLte31oRfaJ0gCuRAbYSQ",
+        "width": 1073
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115562658028091178349\">Ronny</a>"
+        ],
+        "photo_reference": "AWn5SU552TNrSlPzulAVz3gCizeUJ-7pRDVljGGItVx_oS5fVtrb5kF3_2tfV55a0GKzLSvgKHWoWqCcoAYWXr2YaLA0I3C2T2AIs5zCRtLL0vtDnbhX7zcSuWwtnE1eBl6ebJXhleI2K6NRF-MAc1tRW6MZdbe2g8Ynw4Xh6S10c9sq_cm03wfUAUKqMZKW84Zs3mFPqQ8hN0LpDxj2h7IUbLZKMkp3Ww7cRO1iE_MwyPf91WHEPOuTCdDor4rSqGQEU2UmGEAU8iuJ3Hjo_a7kMbYf49hBRLBJX8WGRLWeW1jsWcKv5Jn5NZJTaeZ7YoimrlmlkTBatfacjHHOzHOzL3FMcGC85_xitImw4iYD3ePO5Owg1hfxj9bachtImV-0S41rnInDFXo-qoG2VA9ruyTKpDz50RVf-bRqIKNihkEzKJNVt5rJP1aacBHSiokD",
+        "width": 4032
+      }
+    ],
+    "place_id": "ChIJBdes1d3HwoARtaU8hoElic0",
+    "plus_code": {
+      "compound_code": "2PHF+9W Los Angeles, CA, USA",
+      "global_code": "85632PHF+9W"
+    },
+    "price_level": 1,
+    "rating": 4.6,
+    "reference": "ChIJBdes1d3HwoARtaU8hoElic0",
+    "reservable": true,
+    "reviews": [
+      {
+        "author_name": "Ce Li",
+        "author_url": "https://www.google.com/maps/contrib/100891318884495112614/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjWoIW0_gkiE_QIuKXPWwX7daw0fme_LLRSy0t9Ei0xJ8wzsW4mf=s128-c0x00000000-cc-rp-mo-ba6",
+        "rating": 4,
+        "relative_time_description": "in the last week",
+        "text": "We were feeling hungry after an expo in the area and we saw this nearby so decided to give it a go since we've been to similar places and knew it would be self/fast service. They have a small lot but there was parking and it was free in downtown which is hard to come by. Self service like other establishments of this type. Just grab a bowl and tongs and pick out the ingredients you want to eat and got it weighed, picked a flavor of broth or spice blend, paid and grabbed a seat. Made our own sauces and within 10 minutes we had our soupy mix ready to eat.\n\nFlavors were good and the meat variety was plenty and tables cleaned. What more could I ask for in a hungry state. The atmosphere reminded me of a fast paced chinese dining hall in china where service isn't really a thing. It's great for a college or busy work schedule life style when you need to grab food quickly. Even leftovers which you can take with you is self service, just grab the plastic container and bag and off we went after eating.",
+        "time": 1763726638,
+        "translated": false
+      },
+      {
+        "author_name": "Stevanus Fnu",
+        "author_url": "https://www.google.com/maps/contrib/110887928843995711409/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjW7m4fhs2R0dhgaz_pZBjNWj2aA9TtC9pu5TQrEdHJcrlEOyQsT=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "Warning : Spicy food!!!\nIf you dont like or cant take spicy, becareful trying this place, this place has Mala spice which is not only spicy but create numb sensation on your tongue!\nI ordered the beef bone broth for my hotpot, its really good. They weigh the meat and vegetable per pound, not expensive. No service here, you clean up after yourself. This food is perfect for a cold weather.\nOther good thing : they close late.",
+        "time": 1763681487,
+        "translated": false
+      },
+      {
+        "author_name": "Steve Hong",
+        "author_url": "https://www.google.com/maps/contrib/107297262219647210005/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocKXwObzFikTU_hb5aFgKyW5dHeBsDcoe3mvzzIGFQ1QDWiRNA=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "a week ago",
+        "text": "",
+        "time": 1762712016,
+        "translated": false
+      },
+      {
+        "author_name": "Fang Phattha",
+        "author_url": "https://www.google.com/maps/contrib/105898268180831740347/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjX462pjhsgBgBRaPTJgfFeF9eRc0tpcJZI7Z9WFe8v757sdqRFm=s128-c0x00000000-cc-rp-mo-ba7",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "I didn't realize there is a YGF near USC campus until my Chinese friend told me about it. The location is a few stops on Dash F. The food is as good as other YGF. It's priced by lbs. The stock is full when I went. They always restock the ingredients. The restaurant is a bit small but it's packed with seatings. It's self-service. Very delicious!",
+        "time": 1762663392,
+        "translated": false
+      },
+      {
+        "author_name": "Nathaniel",
+        "author_url": "https://www.google.com/maps/contrib/108150385361593903356/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocLAhk7Tk4Z2X57OFDpFUM-maDK9zNARDjNJl8wv5bRkp1O4NA=s128-c0x00000000-cc-rp-mo-ba2",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "They are always attentive and kind here. My favorite spot to eat. So delicious!",
+        "time": 1762245657,
+        "translated": false
+      }
+    ],
+    "serves_beer": false,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_wine": false,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "meal_takeaway",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=14810410087817717173",
+    "user_ratings_total": 264,
+    "utc_offset": -480,
+    "vicinity": "2526 S Figueroa St, Los Angeles",
+    "website": "https://www.ygfmalatangca.com/",
+    "wheelchair_accessible_entrance": true
+  },
+  "status": "OK"
+}

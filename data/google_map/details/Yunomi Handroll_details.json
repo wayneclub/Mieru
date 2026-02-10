@@ -1,0 +1,442 @@
+{
+  "html_attributions": [],
+  "result": {
+    "address_components": [
+      {
+        "long_name": "#100",
+        "short_name": "#100",
+        "types": [
+          "subpremise"
+        ]
+      },
+      {
+        "long_name": "806",
+        "short_name": "806",
+        "types": [
+          "street_number"
+        ]
+      },
+      {
+        "long_name": "East 3rd Street",
+        "short_name": "E 3rd St",
+        "types": [
+          "route"
+        ]
+      },
+      {
+        "long_name": "Downtown Los Angeles",
+        "short_name": "Downtown Los Angeles",
+        "types": [
+          "neighborhood",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Angeles",
+        "short_name": "Los Angeles",
+        "types": [
+          "locality",
+          "political"
+        ]
+      },
+      {
+        "long_name": "Los Angeles County",
+        "short_name": "Los Angeles County",
+        "types": [
+          "administrative_area_level_2",
+          "political"
+        ]
+      },
+      {
+        "long_name": "California",
+        "short_name": "CA",
+        "types": [
+          "administrative_area_level_1",
+          "political"
+        ]
+      },
+      {
+        "long_name": "United States",
+        "short_name": "US",
+        "types": [
+          "country",
+          "political"
+        ]
+      },
+      {
+        "long_name": "90013",
+        "short_name": "90013",
+        "types": [
+          "postal_code"
+        ]
+      }
+    ],
+    "adr_address": "<span class=\"street-address\">806 E 3rd St #100</span>, <span class=\"locality\">Los Angeles</span>, <span class=\"region\">CA</span> <span class=\"postal-code\">90013</span>, <span class=\"country-name\">USA</span>",
+    "business_status": "OPERATIONAL",
+    "current_opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "date": "2025-11-30",
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-11-30",
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-12-01",
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-12-01",
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-25",
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-11-25",
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-26",
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "date": "2025-11-26",
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-28",
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-11-28",
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "date": "2025-11-29",
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "date": "2025-11-29",
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "special_days": [
+        {
+          "date": "2025-11-27",
+          "exceptional_hours": true
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 9:30 PM",
+        "Tuesday: 12:00 – 9:30 PM",
+        "Wednesday: 12:00 – 9:30 PM",
+        "Thursday: Closed",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 9:30 PM"
+      ]
+    },
+    "delivery": true,
+    "dine_in": true,
+    "formatted_address": "806 E 3rd St #100, Los Angeles, CA 90013, USA",
+    "formatted_phone_number": "(213) 988-7076",
+    "geometry": {
+      "location": {
+        "lat": 34.0457256,
+        "lng": -118.2359452
+      },
+      "viewport": {
+        "northeast": {
+          "lat": 34.0471055302915,
+          "lng": -118.2346373697085
+        },
+        "southwest": {
+          "lat": 34.0444075697085,
+          "lng": -118.2373353302915
+        }
+      }
+    },
+    "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+    "icon_background_color": "#FF9E67",
+    "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+    "international_phone_number": "+1 213-988-7076",
+    "name": "Yunomi Handroll",
+    "opening_hours": {
+      "open_now": false,
+      "periods": [
+        {
+          "close": {
+            "day": 0,
+            "time": "2130"
+          },
+          "open": {
+            "day": 0,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 1,
+            "time": "2130"
+          },
+          "open": {
+            "day": 1,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 2,
+            "time": "2130"
+          },
+          "open": {
+            "day": 2,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 3,
+            "time": "2130"
+          },
+          "open": {
+            "day": 3,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 4,
+            "time": "2130"
+          },
+          "open": {
+            "day": 4,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 5,
+            "time": "2200"
+          },
+          "open": {
+            "day": 5,
+            "time": "1200"
+          }
+        },
+        {
+          "close": {
+            "day": 6,
+            "time": "2200"
+          },
+          "open": {
+            "day": 6,
+            "time": "1200"
+          }
+        }
+      ],
+      "weekday_text": [
+        "Monday: 12:00 – 9:30 PM",
+        "Tuesday: 12:00 – 9:30 PM",
+        "Wednesday: 12:00 – 9:30 PM",
+        "Thursday: 12:00 – 9:30 PM",
+        "Friday: 12:00 – 10:00 PM",
+        "Saturday: 12:00 – 10:00 PM",
+        "Sunday: 12:00 – 9:30 PM"
+      ]
+    },
+    "photos": [
+      {
+        "height": 768,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114316589044530707746\">Yunomi Handroll</a>"
+        ],
+        "photo_reference": "AWn5SU5S274F93uKZgbut4hKKrLAKJwGrCrWI6-sD9vxxJF2ElRQcs8SW6rv4z048PSDipPR5wYKoZjPavjncWr-xius2GsfeHnD6PKgoaATnP3pdt5FG3ki5HkIxLLyI5Z0bZUlwiTIbd2ut63FRmoaNDEgtQepacK3P_70bCI53KFb_hUA7h7sbAaDipdWscMQaT5JXLt1vdCV6sO021UKp4GAuHY9HulvVZYVNqVp8-3xPlz7d6Sk0KfAeH1n61uobVDH8l7FkmGPpoXmaKlzu8KDfhJedZWAlSX0QGnQG-od3w",
+        "width": 1152
+      },
+      {
+        "height": 640,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/114316589044530707746\">Yunomi Handroll</a>"
+        ],
+        "photo_reference": "AWn5SU6BpEeugbc6I4_e3BUSy8NOPYXXi0QzRcZc8Lh3tlMcvblTIJaGRNNzTLkw9ISx2YuR8tyShIYTWVViG7YtF8psVbYK1-7dbR2xww--u-Sj8S1BkBoUASPSF9TwWd2by2ryvGS8GlqLqBqe4JT8Ak4YoJNPitYdZm-M0e4Gg4zTaZYdrjdH4-sU_ITqrYqD83v_md020fZDQZ5JJPVmR7w1PNMghHeQa3Jto4_6DXge29BPvCzfDzyTA-LA-B7-dulgGyYgwY9WcqbrcarZDkvO9vEhq4vYkdPf07nZTnmRTg",
+        "width": 640
+      },
+      {
+        "height": 2315,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106965164327976517432\">yousef</a>"
+        ],
+        "photo_reference": "AWn5SU53_m9eYSyREfyX_kQzr8IEGgPYTw2toqdzUpoEzjfsd0Red9qdtvxFbxpaF2ybJnqXmZ-EHLkSJ0bJbRJa572syT_qsCYXPPWO1I23KkqaBqICVJ13X3EHPC1soXgcVFQbiG8kwTa7oCpWnv8uMV5ayVkbR1VbZnDk4VlgKEQyJxHE1ELBdzlsfrfsGOEKdO2UjRmJUjF5cTXRcGjP6AxwTKPJLfEcQgIzMH860ZF0NEB32H2EkKMEa7qclf3wNec0kMnq6pY48vd9RMTGctMA-w32i1KkEubsX8LPLq4NPxm9OEWJk7uRkkkm-WMdmIjPoEx90JlKMRhwHfmAK5YaSmmBICmx9w1heNja0Da2TFr5ryOwsPTqzOCqskoRmxMznV0YnGXEf-wY7Sk6dtKjzLffl0cHALdMqzkGlEDUfQ",
+        "width": 1985
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/101412018093582026045\">Tiffany Choy</a>"
+        ],
+        "photo_reference": "AWn5SU47ON1oG2R1ryJ17YDyz6u8rojbw-wJvj3QmqTZwhxGqhU1aKirZH_U__aB5VYDEQBe4aOQzwgRWNKvxWGSeCvTidY0HMr_ulz2rLb_ik-tpnzcvxa4KLewk0bSIhxIhSS197PjQPFmv5X0nsdBgZlQjZ8KGCv1vwlPB-xj6fJ4Q_PWLbpuq5sky9RZ18AmSPKRakx2tK5jDyDw8QZQXD4CO4XKp3rH4OuVo7Zmqiw2YGvoDpv0NG8gKzEmL6SiNqD30w46VeIBzAUtVOpPuMU5J6kdGg6i5vX5TWqrUKpavn4biBMFC8i9e15aek9Lvt2vsBux1fqtyaHAT788sU4yZVajnqwBjx3hRyvQqdcxii3ejVW68ei-0Qv6wrofOKqjtxlpHGvChANTyU1A5qmhyPrsKlm8K99r7xHetcvd3eVTfl3GEzWZiOyty0Jg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/115711310859260985133\">Courtney Conovan</a>"
+        ],
+        "photo_reference": "AWn5SU7JNl0jPkCQ6MLerffde3Ic-6MnexeoARTvqniqF0oNvO33OcKHQdlnYmLvE1MaqDiX8vBAaPbT3fuZv17p6d5BTwEIP3eYO-hhvYqNOcQxf8rrtnLW0-2tcbM5NEm2Iqp0Kr220uK-tQP6xjQ3VDZ9kPnr2L7VbY9NDWHTENK0DkAVA5Pb92kvj4k2uuxLv3T6XShl957y6f-z0UK0CoMV9mSy3UCkxJ3DmnJK7vqH0494Y9Eys58Deq4sEpYtWDC24LvLLPdCcoisAkKKoKUXjZFpmaSSxeQWJYGOfiFj6RbgQP-BxrT9YPcYfTusyCxIcY5gxvLg-keJ5-bUTg3F9w00IF_SgdYEJ3Qm6cGPYGN_GHO3aVc5YzphKuNgJjTchoyxaFkXZyFaYSaV9itchnxrYRDWMwWBw3am0n_yOby3",
+        "width": 3024
+      },
+      {
+        "height": 3786,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106965164327976517432\">yousef</a>"
+        ],
+        "photo_reference": "AWn5SU7FHUxPJ_uMa9yoej62Sn7ZD2mKOebvTFPLOkWqoicIqML3NGZuYPclYYX0bFpnPeCi2whcWQtqzmdIA3meuyrNPGAap0IGBlOpvg1bzF4KMAP4keMsIdrHYW6v0Wy5V4QVepMtY_kgUUIlZ7wclZ4uVTclFf5_ru5Rq2mGx9HhxiuQXWHQ2HJCqTwHZ19MFm4Pa8g7sZhDWXjHlCRBnqhUlSagPsLfh7380pRLzGQIa6IQnrA-9FNotW8gfHCRzufYSpfBN0UT2TuJC08eluvGEiBaTSQIelHVnC1M0l6vr6YWzkhDIeu3OHTUpUNpKQXQKeglHhjSyUnWjel16eVC3aVHxV-rEOoEHkjwSwNn26iU8enHK9K-6t00JJuAx-7Vczn7GrlP4l8qSoU-7or3wcx5s_f0hajWTBxqOlKsPgv5",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/107861206136738805296\">Alex Uriel Lag</a>"
+        ],
+        "photo_reference": "AWn5SU7j-9k_U3hw5o-VfPotqbjUXug5NKF7HqNY08vR03krVfRvpWbv41_KgqbVuUdXeuKfoqb0Vce4lRXHV2HSgV-d2yKkuPqjJkusEqZLjOzzmqYXMUndmaYq0MUPD2gUSFd1BGl7gByYJCQKdN_Z4bzFNAKyIRt0Ly4OnyUZ7u7_VLJzQ7Qvfm1g8PfIEz6w9eICGZfumAu8dCEyIKm4M01ASIA1zcyVpVraIDBIMtV5rW22ZuLURTKu5IBNVlhKGZUJHVJRWLMRtGVN61O7YTx4qoznR-VBE7exH0S-q2WlVGlMV2PEajw6TfEtWZPVZrpYAnmhQ37dWMVMvEPWq_FrdzqJOElHxbUNwhYjWN9ctd-7DlsAUVRNslJiSGn-YZ1cTh230WEVSalHsDrXsLSZcy0BJ9rEOtxskjCmGBxstw",
+        "width": 3024
+      },
+      {
+        "height": 1890,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/106965164327976517432\">yousef</a>"
+        ],
+        "photo_reference": "AWn5SU5QSf-VsdHzdSUorNcOS0x07Laa6NCh7kW4NHkPypQ6f_tngUZS4106W7cVoQPOAf_ZqJsP2NEK6rwfsefogCFQsGdKgsdmWp1drg1sNGSWR3yieT7-5yuh5WaaBVxD392GeNfKo8_jzZgGiZqGF0-jZbltjy6EVezBr5ZVcrImzXgzSysMuv_gVIaTUU2njUxOwb7W3XfXxTdpFUZPV6zrzRZ3WMuaLYroYeDm1G5-nTRZoBifO8bBJ8wtfNeR6Nw1StPvVnmdyOE5Z5bl85GX9OVtpFP5_4NInLTjRxt2u9KzSEjPBLAoxDZeIUQB2CoDRx6XSDJ2yQXBQy8QNkgK0XkzL4BSD9VtFl1iThoev8JpA4JAASsFICUE1m00jjp202XM2KJ5tn7LvaMRNZF3noZl3vcZjgDmvo3EZeksWh4",
+        "width": 1724
+      },
+      {
+        "height": 3024,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/116627811166522067352\">Martina Choi</a>"
+        ],
+        "photo_reference": "AWn5SU40pHExXseHzIHTQzIPmx4ZzNO0mFOi10CaWTccs5ZyGW-BcIUEnqasuupzwKofqNn_rhyg4-GBJZdZ37h2CLYo-GqmQXH8sq6heumrE94A9sUKBVhLnP5GIyEigaymTouZBtqIzke_TCFiQMhqAF1Mc0Dhw3INXL6zHV-u-nb-dw1qXubsFqy6S2TA4PJURnnwownCKBwLfu0-2EronCyxh7u1b4nMzCS3jjyWTyIKhP9UNsKqMlPaNURQWviwAZ1bgLLJ7UKWi48HopmGQsmPz8uBtVx93XguZjGN3Ws0WMReK-GrI5WSTkyIRK2LQl6kWdQvrMh6uat8iHCxVTqI9BsKzE1WAhGc3ZWKHohKMRdi6fI3YgY9mUsGvKUOkZo0iabvOhxJQj3NhEEj2ASThUBIwE08bDnTsyaL20l3Dvg3",
+        "width": 4032
+      },
+      {
+        "height": 4000,
+        "html_attributions": [
+          "<a href=\"https://maps.google.com/maps/contrib/110680933516490343946\">Martin Avila</a>"
+        ],
+        "photo_reference": "AWn5SU6q4ktoHbRrvqAiy3Y5nsmCsmy8p3Kys1Lm5T4K3FYPQzwI1is7cgbRr3vFjDFrut33nUx_lkim47hxMYcH95B07teQV4V7bQhKRVBU9DKdW4hLWtYgCqgb-ukYwdq7ji_bX7XF1NhEa6vfdsf1hqlpWJXJucn7vZLnpX0lLMLv3X6Ofd_Opf74NIWdVp4q2sZE1YkYqD81qljnSSzynOx_IjlbCDiiG6L1qRqu4ogF9G_IG4L9L0Z0La7oPRv_SqysO4W1x70QzOpzosW7vWPBJJzjxng8BVi4H8HKJbtF_4-q0N5F41jB63JVOTK3FWIUGyW3pJvOBu6aohz02BKcPpkfheyurEvsXwCscjdv9XglT19nF_lNDbSCmrNhSKUY0jUvICvyO-7LPLhanOSkOojdHqjT8dKHJk7He-s2eA",
+        "width": 3000
+      }
+    ],
+    "place_id": "ChIJSXug65vHwoARL7woRsKWBV0",
+    "plus_code": {
+      "compound_code": "2QW7+7J Los Angeles, CA, USA",
+      "global_code": "85632QW7+7J"
+    },
+    "rating": 4.5,
+    "reference": "ChIJSXug65vHwoARL7woRsKWBV0",
+    "reviews": [
+      {
+        "author_name": "Syed Islam",
+        "author_url": "https://www.google.com/maps/contrib/117525223431137063058/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVqHQaJey0qntMUPkk7LA6Yt5bAPmU520PG7bZyGhDKP6U35jm7=s128-c0x00000000-cc-rp-mo-ba3",
+        "rating": 5,
+        "relative_time_description": "in the last week",
+        "text": "",
+        "time": 1763934584,
+        "translated": false
+      },
+      {
+        "author_name": "Wilma Justice",
+        "author_url": "https://www.google.com/maps/contrib/111714115487256406083/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXbg4QIhRID0L2Brcb4CXJ5u3KcGjs4212CIs9e77QF4vUNNUrA2A=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Great experience! Would definitely go back. Everything was delicious and service was great.",
+        "time": 1762707965,
+        "translated": false
+      },
+      {
+        "author_name": "rylee doyle",
+        "author_url": "https://www.google.com/maps/contrib/113482146077573767611/reviews",
+        "language": "en",
+        "original_language": "en",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjVfAn85y_TT-hoRYB1M7nbPnqz56mKekUdd3ZRTbfImu-s5R77q=s128-c0x00000000-cc-rp-mo-ba5",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "Service is always very fast. Handrolls legit come out in 3 minutes or under. Great place to come for a fast, clean and amazing meal. Sasha is the best btw!",
+        "time": 1762624541,
+        "translated": false
+      },
+      {
+        "author_name": "Cindy H",
+        "author_url": "https://www.google.com/maps/contrib/108643974369787837352/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a/ACg8ocJQm29iHv-i84b19S8Ikf5rhy5FWCj_DyQVefhwXFlrGNWbCg=s128-c0x00000000-cc-rp-mo-ba4",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "",
+        "time": 1762461283,
+        "translated": false
+      },
+      {
+        "author_name": "everson marsh",
+        "author_url": "https://www.google.com/maps/contrib/116312835488943611528/reviews",
+        "profile_photo_url": "https://lh3.googleusercontent.com/a-/ALV-UjXy-zZsDyNj0XNaVkG_4zBHV68__GS8VXTXuDWAwuEULIn_Snm3=s128-c0x00000000-cc-rp-mo",
+        "rating": 5,
+        "relative_time_description": "2 weeks ago",
+        "text": "",
+        "time": 1762285008,
+        "translated": false
+      }
+    ],
+    "serves_beer": true,
+    "serves_dinner": true,
+    "serves_lunch": true,
+    "serves_vegetarian_food": false,
+    "serves_wine": true,
+    "takeout": true,
+    "types": [
+      "establishment",
+      "food",
+      "point_of_interest",
+      "restaurant"
+    ],
+    "url": "https://maps.google.com/?cid=6702929381555747887",
+    "user_ratings_total": 266,
+    "utc_offset": -480,
+    "vicinity": "806 E 3rd St #100, Los Angeles",
+    "website": "http://www.yunomihandroll.com/",
+    "wheelchair_accessible_entrance": true
+  },
+  "status": "OK"
+}

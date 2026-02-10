@@ -1,0 +1,13 @@
+{
+  "location_url": "",
+  "geolocation": {
+    "lat": 34.0224,
+    "lng": -118.2851
+  },
+  "search_radius_meters": 100,
+  "preferences": {
+    "must_have": [""],
+    "nice_to_have": ["", ""],
+    "exclude_keywords": ["", ""]
+  }
+}

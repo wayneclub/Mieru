@@ -1,0 +1,42 @@
+node_modules/
+outputs/
+logs/
+.vscode/
+.DS_Store
+api_keys.json
+.csv
+.txt
+
+
+# Hugging Face cache (Linux/macOS)
+~/.cache/huggingface/
+~/.cache/torch/
+~/.cache/transformers/
+
+# Hugging Face cache (Windows)
+%USERPROFILE%\.cache\huggingface\
+%USERPROFILE%\.cache\torch\
+
+# If you use a project-local cache dir (recommended)
+.hf_cache/
+.huggingface/
+cache/
+models/
+
+# Common model weight files / checkpoints
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.onnx
+*.tflite
+
+# Trainer / checkpoints
+checkpoint-*/
+runs/
+wandb/
+
+# Env / secrets
+.env
+.env.*

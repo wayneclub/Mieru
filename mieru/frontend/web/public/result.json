@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "name": "Cafe Dulce (USC Village)",
+    "matchScore": 92,
+    "rating": 4.6,
+    "reviews": 495,
+    "distance": "N/A",
+    "priceLevel": "$$",
+    "isOpen": true,
+    "image": "https://lh3.googleusercontent.com/gps-cs-s/AG0ilSwLzIjzWyrEYMplI2dmHKaat-X6m9kn1CSU59p0CIMPB_qPgeIO4y-4vWLbjrg1-a0vY6ig8FTdNf6mFZu9yRPXcPIzNxXzxecuq8wzSU2eg8G486YkykRlkxmlnhEPcL8hSfeo0l1LeH4i=w408-h306-k-no",
+    "ai_summary": "A bustling USC Village cafe known for inventive items like the Matcha Latte and Breakfast Burrito. Customers praise the friendly staff and delicious food, often enjoying the outdoor patio despite the loud music and small space. However, be cautious of service issues, as reports mention employees being extremely rude and instances of double charging. Patrons should also expect long lines, though the queue often moves quickly.",
+    "address": "3096 McClintock Ave Ste 1420, Los Angeles, CA 90007, USA",
+    "phone": "(213) 536-5609",
+    "website": "N/A",
+    "hours": "Open Now • Closes 8:00 PM",
+    "signatures": [
+      {
+        "name": "Matcha Latte",
+        "count": 19
+      },
+      {
+        "name": "Breakfast Burrito",
+        "count": 10
+      },
+      {
+        "name": "Pastrami Sandwitch",
+        "count": 5
+      }
+    ],
+    "aspects": {
+      "taste": {
+        "rating": 4.6,
+        "summary": "Inventive & Delicious Donuts/Coffee",
+        "keywords": [
+          {
+            "phrase": "good_coffee",
+            "freq": 6,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "good_matcha",
+            "freq": 6,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "amazing_salad",
+            "freq": 4,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "cake",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "quite_delicious_dessert",
+            "freq": 3,
+            "sentiment": "pos"
+          }
+        ]
+      },
+      "service": {
+        "rating": 4.3,
+        "summary": "Efficient, but Inconsistent Staff Behavior",
+        "keywords": [
+          {
+            "phrase": "highly_recommend",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "definitely_recommend",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "excellent_service",
+            "freq": 2,
+            "sentiment": "pos"
+          }
+        ]
+      },
+      "environment": {
+        "rating": 4.3,
+        "summary": "Lively College Vibe, Often Loud",
+        "keywords": [
+          {
+            "phrase": "free_parking",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "good_place",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "popular_spot",
+            "freq": 2,
+            "sentiment": "pos"
+          }
+        ]
+      },
+      "waiting_time": {
+        "rating": 3.5,
+        "summary": "Long Lines, Fast Turnover",
+        "keywords": [
+          {
+            "phrase": "really_long_line",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "remarkably_slow_service",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "fast_service",
+            "freq": 2,
+            "sentiment": "pos"
+          }
+        ]
+      },
+      "price": {
+        "rating": 4.0,
+        "summary": "Affordable for the Location",
+        "keywords": [
+          {
+            "phrase": "Reasonably Priced",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Not Horrible Pricing",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Affordable",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Over Priced",
+            "freq": 1,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Too Expensive",
+            "freq": 1,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Different Prices",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "YGF Malatang",
+    "matchScore": 95,
+    "rating": 4.6,
+    "reviews": 264,
+    "distance": "N/A",
+    "priceLevel": "$$",
+    "isOpen": false,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipPPRCUeki0SLF2Ix7Df80tE6Io28zOz2ooFXFhW=w408-h544-k-no",
+    "ai_summary": "This top-rated Malatang is highly regarded for its delicious food and classic options like Beef Bone Broth. Service is generally praised as friendly and efficient, often featuring no wait time. However, potential diners should note severe hygiene complaints, with multiple reports of diarrhea and concerns about worst food quality, alongside instances of rude staff.",
+    "address": "2526 S Figueroa St, Los Angeles, CA 90007, USA",
+    "phone": "(949) 345-9685",
+    "website": "https://www.ygfmalatangca.com/",
+    "hours": "Closed • Opens 11:00 AM (Today: 11:00 AM – 2:00 AM)",
+    "signatures": [
+      {
+        "name": "Malatang / Spicy Hot Pot",
+        "count": 59
+      },
+      {
+        "name": "Beef Bone Broth",
+        "count": 5
+      },
+      {
+        "name": "Tomato Soup",
+        "count": 2
+      }
+    ],
+    "aspects": {
+      "taste": {
+        "rating": 4.7,
+        "summary": "Exceptional Flavor & Variety",
+        "keywords": [
+          {
+            "phrase": "Delicious Food",
+            "freq": 16,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Beef Bone Broth",
+            "freq": 5,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Fresh Ingredients",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Diarrhea",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Worst Food",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Stomach Problems",
+            "freq": 3,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "service": {
+        "rating": 4.4,
+        "summary": "Quick Self-Service, Staff Inconsistency",
+        "keywords": [
+          {
+            "phrase": "Excellent Service",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Friendly Staff",
+            "freq": 6,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Staff Are Efficient",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Rude",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Missing Items",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Double Charged",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "environment": {
+        "rating": 4.5,
+        "summary": "Clean, Modern, but Lively Noise",
+        "keywords": [
+          {
+            "phrase": "Clean",
+            "freq": 4,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Spacious",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Good Location Environment",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Loud",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Small",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Dirty",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "waiting_time": {
+        "rating": 4.0,
+        "summary": "Quick Turnover/No Wait",
+        "keywords": [
+          {
+            "phrase": "No Wait",
+            "freq": 7,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Moves Quickly",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Fast Service",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Wait",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Line",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Long Wait",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "price": {
+        "rating": 4.0,
+        "summary": "Good Value for Price",
+        "keywords": [
+          {
+            "phrase": "$20–30",
+            "freq": 17,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Reasonable",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Fair Price",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "$30–50",
+            "freq": 5,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Expensive",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Overpriced",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 3,
+    "name": "Thai by Trio",
+    "matchScore": 90,
+    "rating": 4.3,
+    "reviews": 895,
+    "distance": "N/A",
+    "priceLevel": "$$",
+    "isOpen": false,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipMCxP5Iqxa2nGLxZlUlvz3msx083f9Ik7nMDc1T=w425-h240-k-no",
+    "ai_summary": "A popular Thai eatery with a cozy atmosphere, highly praised for its fast service and classic dishes like Pad Thai and Tom Yum Soup. Diners generally find the price to be in the mid-range and the value worth it. Despite many positive reviews, there are reports of inconsistent food quality, with issues like being too spicy or watery. Service complaints sometimes cite the worst service ever, though staff are generally found to be friendly.",
+    "address": "2700 S Figueroa St #101, Los Angeles, CA 90007, USA",
+    "phone": "(213) 536-5699",
+    "website": "https://thaibytrio.com/",
+    "hours": "Closed • Opens 11:00 AM (Today: 11:00 AM – 10:00 PM)",
+    "signatures": [
+      {
+        "name": "Pad Thai",
+        "count": 11
+      },
+      {
+        "name": "Tom Yum Soup",
+        "count": 7
+      },
+      {
+        "name": "Chicken Satay",
+        "count": 3
+      }
+    ],
+    "aspects": {
+      "taste": {
+        "rating": 4.1,
+        "summary": "Inconsistent Quality, High Potential",
+        "keywords": [
+          {
+            "phrase": "Delicious Food",
+            "freq": 11,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Great Flavor",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Authentic Thai Food",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Worst Thai Food",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Too Spicy",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Watery",
+            "freq": 2,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "service": {
+        "rating": 4.0,
+        "summary": "Friendly but Problematic",
+        "keywords": [
+          {
+            "phrase": "Friendly Staff",
+            "freq": 9,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Excellent Service",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Warm And Efficient",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Worst Service Ever",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Rude",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Refused to Give Refund",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "environment": {
+        "rating": 4.4,
+        "summary": "Cozy and Inviting",
+        "keywords": [
+          {
+            "phrase": "Cozy",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Clean",
+            "freq": 4,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Nice Ambience",
+            "freq": 5,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Loud",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "No Wifi",
+            "freq": 1,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Atmosphere Was Empty",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "waiting_time": {
+        "rating": 4.5,
+        "summary": "Fast Service/No Wait",
+        "keywords": [
+          {
+            "phrase": "No Wait",
+            "freq": 4,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Fast Turnover",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Lightning Fast",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "10-30 Min",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Wait",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Rushed Out",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "price": {
+        "rating": 4.0,
+        "summary": "Mid-Range Pricing",
+        "keywords": [
+          {
+            "phrase": "$20–30",
+            "freq": 10,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Worth It",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Reasonable",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "$50–100",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Expensive",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Overpriced",
+            "freq": 2,
+            "sentiment": "neg"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 4,
+    "name": "Yunomi Handroll",
+    "matchScore": 96,
+    "rating": 4.5,
+    "reviews": 266,
+    "distance": "N/A",
+    "priceLevel": "$$$",
+    "isOpen": false,
+    "image": "https://lh3.googleusercontent.com/p/AF1QipN51OFk_fEotwFirflvSiZaEDU1OkrAGujSP8xk=w408-h272-k-no",
+    "ai_summary": "This handroll is acclaimed for its very fresh ingredients and amazing food, including Yellowtail Serrano Sashimi and Rock Shrimp Tempura. The service is frequently rated as very fast and excellent. While the cozy atmosphere is enjoyed, customers warn of long waits, sometimes over an hour, due to limited bar seating. Negative feedback is centered on comfort issues (e.g., uncomfortable chairs and tight spacing) and a few reports of poor customer service during peak rush.",
+    "address": "806 E 3rd St #100, Los Angeles, CA 90013, USA",
+    "phone": "(213) 988-7076",
+    "website": "http://www.yunomihandroll.com/",
+    "hours": "Closed • Opens 12:00 PM (Today: 12:00 PM – 9:30 PM)",
+    "signatures": [
+      {
+        "name": "5 Hand Rolls Set",
+        "count": 22
+      },
+      {
+        "name": "Yellowtail Serrano Sashimi",
+        "count": 18
+      },
+      {
+        "name": "Rock Shrimp Tempura",
+        "count": 16
+      }
+    ],
+    "aspects": {
+      "taste": {
+        "rating": 4.6,
+        "summary": "Extremely Fresh Ingredients, Outstanding Quality",
+        "keywords": [
+          {
+            "phrase": "Very Fresh",
+            "freq": 5,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Amazing Handrolls",
+            "freq": 4,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Soft Shell Crab",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Too Much Rice",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Low Quality",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Hot Rice",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "service": {
+        "rating": 4.6,
+        "summary": "Quick and Attentive Service",
+        "keywords": [
+          {
+            "phrase": "Very Fast",
+            "freq": 4,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Excellent Service",
+            "freq": 4,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Top Notch",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Poor Customer Service",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Rushed Out",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Low Par",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "environment": {
+        "rating": 4.5,
+        "summary": "Cozy and Modern Bar Ambiance",
+        "keywords": [
+          {
+            "phrase": "Bar Seating",
+            "freq": 10,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Cozy",
+            "freq": 5,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Clean",
+            "freq": 5,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Tight Spacing",
+            "freq": 3,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Uncomfortable Chairs",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Stiff Stools",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "waiting_time": {
+        "rating": 3.0,
+        "summary": "Slow Seating, but Fast Food Service",
+        "keywords": [
+          {
+            "phrase": "Short Line",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "3 Minutes",
+            "freq": 1,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Quick",
+            "freq": 3,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "10-30 Min",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Over An Hour",
+            "freq": 2,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Wait To Be Seated",
+            "freq": 2,
+            "sentiment": "neg"
+          }
+        ]
+      },
+      "price": {
+        "rating": 4.0,
+        "summary": "Higher Priced, but Worth the Value",
+        "keywords": [
+          {
+            "phrase": "Worth It",
+            "freq": 5,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "$20–30",
+            "freq": 7,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "Not Bad",
+            "freq": 2,
+            "sentiment": "pos"
+          },
+          {
+            "phrase": "$50–100",
+            "freq": 4,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Overpriced",
+            "freq": 1,
+            "sentiment": "neg"
+          },
+          {
+            "phrase": "Charge Additional Fees",
+            "freq": 1,
+            "sentiment": "neg"
+          }
+        ]
+      }
+    }
+  }
+]
