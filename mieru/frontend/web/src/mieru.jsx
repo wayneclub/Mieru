@@ -340,7 +340,7 @@ export default function Mieru() {
     setError(null);
 
     try {
-        const response = await fetch('/result.json');
+        const response = await fetch('./result.json');
 
         if (!response.ok) {
             throw new Error('Failed to get result');
